@@ -12,7 +12,7 @@ The Quantum Algorithms Simulator repository aims to provide a comprehensive coll
 ## Contents
 
 The repository is structured as follows:
-
+SG
 - `algorithms/`: This directory contains implementations of various quantum algorithms. Each algorithm has its own subdirectory, including the source code, explanations, and any necessary accompanying files.
 - `tutorials/`: Here, you will find tutorials and guides that introduce quantum computing concepts, explain the implemented algorithms, and provide step-by-step instructions for running the simulations.
 - `resources/`: This directory hosts additional resources related to quantum computing, including recommended books, research papers, online courses, and links to external references for further exploration.
