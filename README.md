@@ -7,7 +7,7 @@ Welcome to the Quantum Algorithms Simulator repository! This repository is dedic
 
 ## Overview
 
-The Quantum Algorithms Simulator repository aims to provide a comprehensive collection of quantum algorithms, simulations, and educational materials. Quantum computing is a rapidly evolving field, and this repository serves as a valuable resource for developers, researchers, and enthusiasts interested in exploring the potential of quantum algorithms.
+The Quantum Algorithms Simulator repository aims to provide a comprehensive collection of quantum algorithms, simulations, and educational materials. Quantum computing is a rapidly evolving field, and this repository serves as a valuable resource for developers, researchers, and enthusiasts interested in exploring the potential of quantum
 
 ## Contents
 
